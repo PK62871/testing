@@ -1,0 +1,3 @@
+A.tx File is changed :q
+:wq
+
